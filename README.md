@@ -1,4 +1,4 @@
-# ssh-tunnel-normal-ssh-classification
+# ssh-tunnel-normal-ssh-traffic-classification
 ssh tunnel and normal ssh use random forest classification
 The training dataset for SSH tunnel traffic is captured through experiments and publicly available.
 The training dataset for SSH tunnel traffic is captured through experiments.
